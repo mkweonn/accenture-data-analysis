@@ -17,4 +17,4 @@ Excel | Data Analysis | Data Visualization | Presentation | Tableau
 ### Data Visualization
 We then communicated our findings with a presentations, presenting insights and recommendations. I further visualized the data in Tableau. (*Note: The Tableau month chart focuses on a filtered data set, explaining the discrepancy with the slide deck.)
 - [Interactive Dashboard](https://public.tableau.com/app/profile/michelle.kweon6136/viz/Book1_17428638704160/Dashboard3)
-- [!Accenture Dashboard]()
+- ![Accenture Dashboard](https://github.com/mkweonn/accenture-data-analysis/blob/main/Tableau.png)
